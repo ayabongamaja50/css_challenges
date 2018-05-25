@@ -1,0 +1,27 @@
+.speech-bubble {
+	position: relative;
+	background: #00aabb;
+  border: 2px solid  #00aabb;
+  border-radius: 30%;
+  width: 200px;
+  height:200px;
+  align:center;
+
+}
+
+.speech-bubble::after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 65%;
+  top: 20%;
+	width:40px;
+	height: 40px;
+	border-top: 20px solid  #00aabb;
+  border-bottom: 10px solid  #00aabb;
+  border-left: 20px solid  #00aabb;
+  border-right: 10px solid  #00aabb;
+	margin-left: 10px;
+	margin-bottom: 20px;
+  transform: rotate(143deg);
+}

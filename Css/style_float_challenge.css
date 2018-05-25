@@ -1,0 +1,54 @@
+#box1,#box2,#box3,#box4{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  
+}
+#box1{
+  background-color: violet;
+  float: left;
+}
+
+#box2{
+  background-color: #444;
+  float: left;
+}
+#box3{
+  background-color: blue;
+  float: left;
+}
+#box4{
+  background-color: green;
+  float: left;
+}
+#box1:hover{
+ background-color: #444;
+}
+#box2:hover{
+ background-color: blue;
+}
+#box3:hover{
+ background-color: red;
+}
+#box4:hover{
+ background-color: violet;
+}
+
+#box1:active {
+  background-color: green;
+}
+#box2:active {
+  background-color: pink;
+}
+#box3:active {
+  background-color: violet;
+}
+#box4:active {
+  background-color: yellow;
+}
+#box3:hover{
+ width: 600px;
+}
+#box4:hover{
+ width: 50px;
+}

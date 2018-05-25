@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Gugi');
+#p1{
+  font-family: 'Gugi', cursive;
+font-family: 'Black Han Sans', sans-serif;
+}
+
+
+#p2{
+  font-family:'Gugi', cursive;
+}
+
+h1{
+  font-style: italic;
+  font-weight: lighter;
+
+}
+h2{
+  font-style: oblique;
+  font-weight:bolder;
+}

@@ -1,0 +1,38 @@
+.container{
+  background-color: violet;
+x
+}
+
+#h1{
+color: Pink;
+}
+
+#h2{
+color: blue;
+
+}
+
+#h3{
+  color: red;
+
+}
+
+#h4{
+  color: Purple;
+}
+
+#h5 {
+  color: green;
+}
+
+#h6{
+  color: yellow;
+}
+
+#p1,#p5,#p10,#p15.#p20,#p25,#p21{
+  font-family: 'Hi Melody', cursive;
+}
+
+#p4,#p2,#p6,#p8,#p12,#p14,#p16,#p18,{
+  font-style: oblique;
+}
